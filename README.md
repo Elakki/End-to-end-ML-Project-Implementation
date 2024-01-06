@@ -12,3 +12,5 @@ conda activate mlproj
 ```bash
 pip install -r requirements.txt
 ```
+
+git config --global user.email "elakkiyaselvan@gmail.com"
